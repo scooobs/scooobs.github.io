@@ -1,3 +1,3 @@
 # scooobs.github.io
 
-A short online resumé to display relevant information.
+A short online <a href='https://scooobs.github.io'>resumé</a> to display relevant information.
